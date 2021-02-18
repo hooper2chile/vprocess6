@@ -1874,3 +1874,6 @@ sincronizado: Hora=16:21:28__Fecha=18-02-21
 sincronizado: Hora=17:02:17__Fecha=18-02-21 
 sincronizado: Hora=17:04:19__Fecha=18-02-21 
 sincronizado: Hora=17:06:21__Fecha=18-02-21 
+sincronizado: Hora=17:08:24__Fecha=18-02-21 
+sincronizado: Hora=17:10:26__Fecha=18-02-21 
+sincronizado: Hora=17:12:29__Fecha=18-02-21 
