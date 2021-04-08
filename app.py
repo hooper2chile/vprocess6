@@ -47,7 +47,7 @@ set_data = [10,  60, 7.0, 10, 25,   1,1,1,1,1,0, 0, 0, 0]
 #rm_sets[5]  =: (reset local de bomba remontaje)
 
 
-ficha_producto = [0.0,0.0,0.0,0.0,0.0,"vacio_uchile-k","vacio_uchile-g",0,0.0,0,0,0,0] #ficha_producto[9]=set_data[4]:temparatura setpoint
+ficha_producto = [0.0,0.0,0.0,0.0,0.0,"vacio_cecs-k","vacio_cecs-g",0,0.0,0,0,0,0] #ficha_producto[9]=set_data[4]:temparatura setpoint
 ficha_producto_save = ficha_producto                                  #ficha_producto[10] = set_data[0]: bomba1
                                                                       #ficha_producto[11] = set_data[3]: bomba2
                                                                       #ficha_producto[12] = rm_sets[4]*rm_sets[5] : para saber cuando
@@ -451,7 +451,7 @@ def calibrar_ph(dato):
     #Con cada cambio en los parametros, se vuelven a emitir a todos los clientes.
     socketio.emit('ph_calibrar', {'set': ph_set}, namespace='/biocl', broadcast=True)
 
-    #guardo set_data en un archivo para depurar
+    #guardo ph_set en un archivo para depurar
     try:
         ph_set_txt = str(ph_set)
         f = open(DIR + "/ph_set.txt","w")
@@ -461,6 +461,7 @@ def calibrar_ph(dato):
     except:
         pass
         #logging.info("no se pudo guardar parameters en od_set.txt")
+
 
 ########################## se debe actualizar para los sensores atlas scientific #########################
 #CALIBRACIÓN TEMPERATURA
@@ -603,7 +604,7 @@ def background_thread1():
             send_setpoint = communication.cook_setpoint(set_data,rm_sets)
             socket.send_string("%s %s" % (topic, send_setpoint))
 
-
+            '''
             #Caso calibrar pH Sensor Hamilton 4-20 mA
             if len(calibrar_ph) == 15:
                 #Se envia tres veces por que no toma a la primera en el UC! (RARO!)
@@ -614,7 +615,7 @@ def background_thread1():
                     i += 1
                 calibrar_ph = ""
 
-
+            '''
             #Caso calibrar Temperatura Sensor Atlas I2C
             if len(calibrar_temp) >= 2:
                 #Se envia tres veces por que no toma a la primera en el UC! (RARO!)

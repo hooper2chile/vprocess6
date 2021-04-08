@@ -1,307 +1,48 @@
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.371868905s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-Conflict detected!
-The following files have changed and the remote file are newer than it's local counterpart:
-
-Path              Size Local   Size Remote   Modified Local             Modified Remote
-gdrive_sync.txt   82.7 KB      82.6 KB       Feb 18 2021 15:44:34.649   Feb 18 2021 15:44:41.647
-
-No conflict resolution was given, aborting...
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.200052891s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.45659167s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.375876878s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.292490867s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.59526988s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.288332821s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.526747885s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.603213967s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.419926841s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.285500783s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.184407915s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.401568933s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.418201198s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.343361994s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.402264385s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.464391004s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.410317414s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.316538948s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.522681343s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.34931685s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.356986585s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
 Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.315533932s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.252482883s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.37361323s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.37982349s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.458758063s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.07563875s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.190743425s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.491377587s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.527651324s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.518179614s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.258635876s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.572368079s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.240974719s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.962991665s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-Conflict detected!
-The following files have changed and the remote file are newer than it's local counterpart:
-
-Path              Size Local   Size Remote   Modified Local             Modified Remote
-gdrive_sync.txt   84.3 KB      84.2 KB       Feb 18 2021 16:21:31.565   Feb 18 2021 17:00:16.905
-
-No conflict resolution was given, aborting...
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.352678394s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.56133374s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.468194617s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.522929166s
-Starting sync...
-Collecting local and remote file information...
-Found 3 local files and 10 remote files
-
-1 local files has changed
-[0001/0001] Updating gdrive_sync.txt -> Vprocess_CSV/gdrive_sync.txt
-Sync finished in 2.405153275s
+Failed to find root dir: googleapi: Error 404: File not found: 1vcPhAsToemeL0_Eda5Llx0kAqGCoCsGl., notFound
